@@ -1,0 +1,18 @@
+﻿  DrawScene.cpp
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(655,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(660,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(669,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(674,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(865,7): warning C4101: 'filename' :참조되지 않은 지역 변수입니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(1073,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(2318,8): warning C4101: 'aspect_ratio' :참조되지 않은 지역 변수입니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(2472,33): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(2472,66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(2475,34): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\SunTemple_Texture_PS_GLSL\DrawScene.cpp(2475,68): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  main.cpp
+  LoadScene.cpp
+  LoadShaders.cpp
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\x64\Debug\SunTemple_Texture_PS_GLSL.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  SunTemple_Texture_PS_GLSL.vcxproj -> C:\Users\조병화\Desktop\SunTemple_Texture_PS_GLSL_제출전\x64\Debug\SunTemple_Texture_PS_GLSL.exe
